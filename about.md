@@ -21,7 +21,7 @@ Part I: How to contribute to this/any github project
 
 2. click fork project
 
-3. `git clone git@github.com/<your user>/git-demo`
+3. `git clone git@github.com:<your user>/git-demo`
 
 4. edit project (e.g. add an .md file)
 
@@ -33,7 +33,7 @@ Part I: How to contribute to this/any github project
 
 8. `git push` to send the changes to github.
 
-9. Go to https://github.com/<your user>/git-demo
+9. Go to `https://github.com/<your user>/git-demo`
 
 10. Click create pull request
 
