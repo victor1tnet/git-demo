@@ -64,3 +64,5 @@ Part III: more...
 -----------------
 
 We have not talked about [branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) even though they are very fundamental.
+
+Notice that we have bith *master* and *gh-pages* branch. See [doc](https://pages.github.com/) for reasons.
