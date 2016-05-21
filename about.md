@@ -33,7 +33,7 @@ Part I: How to contribute to this/any github project
 
 8. `git push` to send the changes to github.
 
-9. Go to https://github.com/<your user>/git-demo
+9. Go to `https://github.com/<your user>/git-demo`
 
 10. Click create pull request
 
@@ -64,3 +64,5 @@ Part III: more...
 -----------------
 
 We have not talked about [branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) even though they are very fundamental.
+
+Notice that we have bith *master* and *gh-pages* branch. See [doc](https://pages.github.com/) for reasons.
