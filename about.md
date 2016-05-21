@@ -53,7 +53,7 @@ Updates to upstream will not automatically get into the fork.
   
 2. Sync with upstream (see [this](https://help.github.com/articles/syncing-a-fork/) for details)
    
-   `git pull upstream master`
+   `git pull upstream gh-pages`
 
 3. resolve any issues
 
